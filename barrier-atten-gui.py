@@ -9,6 +9,8 @@ Indicator of whether or not line of site was broken
 
 A limit option for the barrier attenuation.
 
+Simplify label creation within code
+
 """
 
 from tkinter import *
